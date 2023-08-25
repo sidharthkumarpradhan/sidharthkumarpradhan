@@ -40,7 +40,7 @@ Join me in this exciting expedition of innovation, collaboration, and progress. 
 ### Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,python,git,kubernetes,docker,c,vim,angular,ansible,bash,bootstrap,css,django,grafana,html,ai,java,jekins,jquery,nodejs,nginx,mysql,mongodb,powershell,prometheus&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,python,git,kubernetes,docker,c,vim,angular,ansible,bash,bootstrap,css,django,grafana,html,ai,java,jekins,jquery,nodejs,nginx,mysql,mongodb,powershell,prometheus&perline=15)](https://skillicons.dev)
 
 
 
