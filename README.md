@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Enthusiast | AI Advocate | Mentor | Passionate about Democratizing AI, Mastering MLOps and DevOps, and Improving 1% daily to drive tech innovation.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-👋 Hello there! I'm Sidharth Kumar Pradhan, and I'm here to share my journey at the intersection of innovation, technology, and social impact. With over 4 years of hands-on experience in the dynamic fields of Machine Learning Operations (MLOps) and DevOps, I'm on a mission to reshape the technological landscape. 
+👋 Hello there! I'm Sidharth Kumar Pradhan, and I'm here to share my journey at the intersection of innovation, technology, and social impact. With over 6 years of hands-on experience in the dynamic fields of Machine Learning Operations (MLOps), FinOps, FinTech, Software Developement & DevOps, I'm on a mission to reshape the technological landscape. 
 
 🌟 <b>Guiding the Next Generation: Mentorship as a Calling</b>
 
@@ -14,7 +14,7 @@ Mentorship goes beyond mere guidance—it's a calling I hold dear. As a mentor, 
 
 My core belief is that technology, especially AI, should be accessible to all, transcending barriers. I'm dedicated to bridging the gap between sophisticated tech and the broader community. Through my contributions to open-source projects, I'm contributing to an AI landscape that's inclusive, approachable, and impactful for everyone. 
 
-⚙️ <b>Harmony in MLOps and DevOps: Crafting Synergy</b>
+⚙️ <b>Harmony in MLOps | FinOps | DevOps: Crafting Synergy</b>
 
 The confluence of MLOps and DevOps is where my passion thrives. I've led projects in crafting end-to-end MLOps pipelines, accelerating deployment times by an impressive 40%. My journey also involves implementing automated monitoring systems, effectively reducing model errors by 30%. Witnessing the transformative synergy between these domains drives my dedication. 
 
@@ -33,7 +33,7 @@ Join me in this exciting expedition of innovation, collaboration, and progress. 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [edu.sidharth@gmail.com](mailto:edu.sidharth@gmail.com)
-* 🧠  I'm learning Generative AI, LLMOps
+* 🧠  Excited about MultiAgent Workflow, LLMOps
 * 🤝  I'm open to collaborating on Machine Learning, Deep Learning, LLM
 * ⚡  When not coding, you'll find me hacking away at hackathons and building robots for the sheer thrill of innovation.
 
