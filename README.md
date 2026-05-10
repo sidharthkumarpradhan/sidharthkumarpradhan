@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Startups | Data Enthusiast | AI Advocate | Mentor | Passionate about Democratizing AI, Mastering AgentOps, and Improving 1% daily to drive tech innovation.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-👋 Hello there! I'm Sidharth Kumar Pradhan, and I'm here to share my journey at the intersection of innovation, technology, and social impact. With over 6 years of hands-on experience in the dynamic fields of Machine Learning Operations (MLOps), FinOps, FinTech, Software Developement & DevOps, I'm on a mission to reshape the technological landscape. 
+👋 Hello there! I'm Sidharth Kumar Pradhan, and I'm here to share my journey at the intersection of innovation, technology, and social impact. With over 7 years of hands-on experience in the dynamic fields of Machine Learning Operations (MLOps), FinOps, FinTech, Software Developement & DevOps, I'm on a mission to reshape the technological landscape.
 
 🌟 <b>Guiding the Next Generation: Mentorship as a Calling</b>
 
